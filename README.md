@@ -1,6 +1,6 @@
 # 만들면서 배우는 스프링
 
-## @Transactional
+## 스프링 AOP
 
 ### 학습목표
 - AOP 학습 테스트로 AOP와 Proxy에 대한 이해도를 높인다.
