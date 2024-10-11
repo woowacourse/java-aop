@@ -8,7 +8,7 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @Configuration
 @EnableAspectJAutoProxy(proxyTargetClass = true)
-@ComponentScan(basePackages = {"camp.nextstep.aspectj", "camp.nextstep.sample"})
+@ComponentScan(basePackages = {"com.techcourse.aspectj", "com.techcourse.sample"})
 public class AopConfig {
 
     @Bean
